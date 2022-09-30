@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "965764059259",
+    "project_id": "t-gym-58401",
+    "storage_bucket": "t-gym-58401.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965764059259:android:a320224d154b6a4c3b52de",
+        "android_client_info": {
+          "package_name": "com.example.tgym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965764059259-4hf3p5h4ku4kll00lfke3eoncons522t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5zgMgrx_Op4NXfVXSKOye9T2y6KWvFsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965764059259-4hf3p5h4ku4kll00lfke3eoncons522t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
